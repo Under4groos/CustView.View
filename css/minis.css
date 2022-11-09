@@ -58,7 +58,7 @@ li {
     border-radius: 15px;
 }
 
-svg.rot {
+.rot {
     animation: 1s linear 0s normal none infinite running rot;
     -webkit-animation: 10s linear 0s normal none infinite running rot;
 }
